@@ -15,7 +15,7 @@ Modern React template with TypeScript, Tailwind CSS, and essential development t
 
 ```bash
 # Clone the template
-git clone [repository-url]
+git clone https://github.com/kPoziomek/react-template
 
 # Install dependencies
 pnpm install
